@@ -1,5 +1,5 @@
 ##### Dear Reader 👋
-
+![Baby Yoda Greeting](babyyoda.jpeg.jfif)
  I hope you are safe, well and having a pleasant week.
 
 My name is **Bilal Vahidy**. I am an alumni of the London School of Economics and currently attempting to transition to a Data-Science career by attending HyperionDev:Cogrammar's digital skills bootcamp. 
