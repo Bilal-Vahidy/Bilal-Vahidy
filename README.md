@@ -1,9 +1,12 @@
 ##### Dear Reader 👋
-![Baby Yoda Greeting](babyyoda.jpeg.jfif)
+
  I hope you are safe, well and having a pleasant week.
 
 My name is **Bilal Vahidy**. I am an alumni of the London School of Economics and currently attempting to transition to a Data-Science career by attending HyperionDev:Cogrammar's digital skills bootcamp. 
 
+🌱  I’m currently working on completing HyperionDev;Cogrammar's Data-Science bootcamp. 
+
+✨I can be contacted at bilalmvahidy@gmail.com 
 
 <!--
 **Bilal-Vahidy/Bilal-Vahidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
