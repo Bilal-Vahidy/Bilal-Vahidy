@@ -2,9 +2,9 @@
 
  I hope you are safe, well and having a pleasant week.
 
-My name is **Bilal Vahidy**. I am an alumni of the London School of Economics and currently attempting to transition to a Data-Science career by attending HyperionDev:Cogrammar's digital skills bootcamp. 
+My name is **Bilal Vahidy**. I am an alumni of the London School of Economics and currently attempting to transition to a Data-Science career.
 
-🌱  I’m currently working on completing HyperionDev;Cogrammar's Data-Science bootcamp. 
+🌱  I recently completed  HyperionDev;Cogrammar's Data-Science bootcamp which is co certified by Imperial College.
 
 ✨I can be contacted at bilalmvahidy@gmail.com 
 
